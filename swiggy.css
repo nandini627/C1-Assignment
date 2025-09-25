@@ -1,0 +1,120 @@
+.searchbar{
+    display: flex;
+    height: 30px;
+    width: 1200px;
+    border: 2px solid grey;
+    /* padding: 20px; */
+   margin-left: 20px;
+   margin-top: 20px;
+   border-radius: 10px;
+   
+}
+.search{
+     display: flex;
+    word-spacing:20px;
+   
+}
+.rect{
+    /* background-image: url(download.webp);
+    border-image-repeat: no repe; */
+    display: flex;
+
+    height: 400px;
+    width: 1200px;
+    background-color:blue;
+    margin-left: 20px;
+    justify-content: center;
+    margin-top: 10px;
+    flex-wrap: wrap;
+    
+}
+
+
+/* .smallrect{
+    display: flex;
+
+    height: 100px;
+    width: 500px;
+    background-color: oklch(73.865% 0.09759 244.912);
+    margin-left: 20px;
+    margin-top: 20px;
+    border-radius: 5%; */
+.im img{
+    height: 10px;
+    width: 100px;
+    margin-top:50px ;
+
+}
+.blank{ display: inline;
+    display: flex;
+    height: 1000px;
+    width: 1200px;
+    box-shadow: 2px 2px 2px 2px;
+    margin: 20px;
+    margin-top: 12px;
+    justify-content: center;
+    
+}
+.img1{ display: inline;
+    margin-left: 10px;
+    margin-top:10px ;
+    border-radius: 5px;
+    height: 300px;
+    width: 200px;
+    box-shadow: 1px 1px 1px 1px;
+}
+.img2{ display: inline;
+    margin-top:10px;
+     margin-left: 10px;
+    border-radius: 5px;
+    height: 300px;
+    width: 200px;
+    box-shadow: 1px 1px 1px 1px;
+    /* display: inline; */
+}
+.img3{ display: inline;
+     margin-top:10px;
+     margin-left: 10px;
+    border-radius: 5px;
+    height: 300px;
+    width: 200px;
+    box-shadow: 1px 1px 1px 1px;
+    /* display: inline; */
+}
+.img4{ display: inline;
+    margin-top:10px;
+     margin-left: 10px;
+    border-radius: 5px;
+    height: 300px;
+    width: 200px;
+    box-shadow: 1px 1px 1px 1px;
+}
+.img5{
+    display: inline;
+    margin-top:10px;
+     margin-left: 10px;
+    border-radius: 5px;
+    height: 300px;
+    width: 200px;
+    box-shadow: 1px 1px 1px 1px;
+}
+.img6{ display: inline;
+    margin-top:10px;
+     margin-left: 10px;
+    border-radius: 5px;
+    height: 300px;
+    width: 200px;
+    box-shadow: 1px 1px 1px 1px;
+}
+.img7{ display: inline;
+    margin-top:10px;
+     margin-left: 10px;
+    border-radius: 5px;
+    height: 300px;
+    width: 200px;
+    box-shadow: 1px 1px 1px 1px;
+}
+.profile{
+    display: flex;
+    justify-content: end;
+}
