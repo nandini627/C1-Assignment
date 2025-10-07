@@ -1,0 +1,13 @@
+var unit=400;
+var Rs=5
+var bill=unit*Rs
+if(unit=100){
+    console.log("bill is:",bill);
+}
+else if(unit=200){
+    console.log("bill is:",bill);
+    
+}
+else if(unit>=300){
+    console.log("bill is above:",bill);
+}
