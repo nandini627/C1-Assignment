@@ -1,0 +1,256 @@
+body {
+    margin: 0px;
+    padding: 0px;
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: rgb(242, 241, 243);
+}
+.logo{
+    width: 300px;
+    height:100px;
+    background-image: url(tickerlogo.svg);
+}
+
+.landingpage {
+    /* display: flex; */
+    height: 90vh;
+    width: 90vw;
+    margin-top: 20px;
+    margin-left: 20px;
+}
+
+.nav {
+    height: 45px;
+    background-color: rgb(204, 203, 242);
+    margin-bottom: 20px;
+}
+
+.title {
+    font-size: 45px;
+    margin-top: 50px;
+    text-align: center;
+}
+
+.links {
+    display: flex;
+    justify-content: space-evenly;
+
+}
+
+a:hover {
+    color: blue;
+}
+
+a {
+    text-decoration: none;
+    color: black;
+    font-weight: bold;
+    font-family: Arial, Helvetica, sans-serif;
+
+}
+
+.stitle {
+    color: blue;
+    text-align: center;
+    margin-top: 20px;
+    font-weight: bold;
+    font-size: 20px;
+}
+
+input {
+    display: flex;
+    margin-left: 40px;
+    height: 50px;
+    width: 60%;
+    /* border: 1px solid black; */
+    box-shadow: 5px 5px 5px 5px rgb(235, 217, 238);
+    border-radius: 30px;
+    margin-top: 25px;
+    font-size: 17px;
+    text-align: left;
+    margin-left: 260px;
+  
+    
+    /* margin-left: 10px; */
+}
+
+
+.btext {
+    margin-top: 25px;
+    text-align: center;
+    gap: 10px;
+    font-size: 17px;
+
+
+}
+
+.round a {
+    /* display: flex; */
+    flex-direction: row;
+    height: 120px;
+    width: 150px;
+    box-shadow: 5px 5px 5px 5px rgb(235, 217, 238);
+    color: blue;
+    border-radius: 10px;
+    background-color: rgb(230, 229, 231);
+
+
+}
+
+.round {
+    font-size: 20px;
+
+}
+
+.ad img {
+    margin-top: 100px;
+    height: 100px;
+    width: 800px;
+
+}
+
+.btitle {
+    font-size: 35px;
+    margin-top: 90px;
+}
+
+.subpera {
+    margin-top: 10px;
+}
+
+table {
+    margin-top: 10px;
+    border-collapse:collapse;
+    border-spacing: 0px;
+    width: 45%;
+    
+
+    th {
+        color: blue;
+        background-color: rgb(236, 228, 238);
+    }
+}
+
+th {
+    color: blue;
+}
+/* .cart1{
+    height:400px;
+    width: 350px;
+    border: 1px solid black;
+    text-align: center;
+
+} */
+
+.photo1 {
+    margin-top: 45px;
+    height: 200px;
+    width: 300px;
+    background-image: url(cansmin\ basket.jpg);
+    background-size: contain;
+    background-repeat: no-repeat; 
+    text-align: center;
+    border-radius: 20px; 
+    background-color: aquamarine; 
+
+}
+.photo2 {
+    margin-top: 45px;
+    height: 200px;
+    width: 300px;
+    background-image: url(efficiant\ banks.jpg);
+    background-size: contain;
+    background-repeat: no-repeat;
+     border-radius: 20px;
+    
+      /* border: 1px solid black; */
+}
+
+.photo3 {
+    margin-top: 45px;
+    height: 200px;
+    width: 300px;
+    background-image: url(debt\ indi.jpg);
+    background-size: contain;
+    background-repeat: no-repeat;
+     border-radius: 20px;
+      /* border: 1px solid black; */
+}
+
+.photo4 {
+    margin-top: 45px;
+    height: 200px;
+    width: 300px;
+    background-image: url(rising\ stars.jpg);
+    background-size: contain;
+    background-repeat: no-repeat;
+     border-radius: 20px;
+      /* border: 1px solid black; */
+}
+.photo{
+    display: flex;
+    justify-content: space-evenly;
+}
+.ptex{
+    height: 30px;
+    width: 100px;
+    text-align: end;
+}
+.divp1{
+     margin-top: 45px;
+    height: 450px;
+    width: 300px;
+    border: 1px solid black;
+    border-radius: 30px;
+}
+.access{
+    height: 30px;
+    width: 100px;
+    background-color: rgb(65, 107, 212);
+    text-align: center;
+    border-radius: 5px;
+    color: white;
+    font-size: 20px;
+}
+.access a{
+    color: white;
+}
+.access:hover,.access:active{
+    transform: scale(1.1);
+}
+.box{
+    margin-top: 20px;
+    height: 998px;
+    width: 400px;
+    background-color: white;
+    border-radius: 20px;
+}
+.divbox{
+    display: flex;
+   justify-content: space-evenly;
+}
+
+.boxtext{
+   text-align: center;
+   margin-top: 20px;
+   font-size: 25px;
+   font-weight: bold;
+   
+}
+.pera{
+    color: rgb(132, 132, 137);
+    margin-top: 20px;
+    margin-left: 10px;
+    ;
+}
+.pera.p{
+    font-size: 10px;
+}
+.sb a{
+    height: 25px;
+    width: 60px;
+    background-color: blue;
+    color: white;
+    font-size: 17px;
+    margin-left: 20px;
+}
+
